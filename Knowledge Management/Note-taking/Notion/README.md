@@ -1,0 +1,114 @@
+# [Notion](https://www.notion.so/)
+## Blocks
+- Layout
+  - Columns
+  - Divider
+- Text
+  - Headings
+  - Text
+  - Font
+    - Bold
+    - Italicize
+    - Underline
+    - Strike-through
+    - Colors
+    - Background
+  - Emoji
+  - Date or reminder
+  - Quote
+  - Callout
+  - Comment
+- Math: [LaTeX](https://www.notion.so/help/math-equations)
+  - Inline equation
+  - Block equation
+- Code
+- List
+  - Bulleted list
+  - Numbered list
+  - To-do list
+  - Table of contents
+  - Breadcrumb
+- Table
+  - Table
+  - Database
+  - Synced databases
+- Interactive
+  - Toggle list
+  - Toggle headings
+  - Template button
+- Link
+  - Web bookmark
+  - Page
+  - Mention a page
+  - Link to page
+  - Synced block
+  - Mention a person
+- Media
+  - Image
+  - Diagram
+    - Code - Mermaid
+  - Video
+  - Audio
+  - File
+- Embeds
+  - Embed
+  - Storage
+    - Google Drive
+    - OneDrive
+    - Dropbox
+  - Tweet
+  - GitHub
+    - GitHub
+    - GitHub Gist
+  - Google Maps
+  - Figma
+  - Abstract
+  - Framer
+  - Whimsical
+  - Miro
+  - Sketch
+  - Excalidraw
+  - PDF
+  - Loom
+  - Typeform
+  - CodePen
+  - Replit
+  - Hex
+  - Deepnote
+  - GRID
+  - Trello
+  - Slack
+  - Asana
+  - Jira
+  - Pitch
+  - Zoom
+
+## Database
+Property types:
+- Text
+- Number
+- Select
+- Multi-select
+- Status
+- Date
+- Person
+- File & media
+- Checkbox
+- URL
+- Email
+- Phone
+- Formula
+- Relation
+- Rollup
+- Created time
+- Created by
+- Last edited time
+- Last edited by
+
+Synced databases:
+- GitHub
+- Jira
+
+## Editor
+- Autocomplete (`Type '/' for commands`)
+- Markdown

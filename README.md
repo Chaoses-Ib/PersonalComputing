@@ -1,5 +1,8 @@
 # Personal Computing
 ## [Knowledge Management](Knowledge%20Management/README.md)
+- [Note-taking](Knowledge%20Management/Note-taking/README.md)
+  - [OneNote](Knowledge%20Management/Note-taking/OneNote/README.md)
+  - [Notion](Knowledge%20Management/Note-taking/Notion/README.md)
 
 ## [Information Management](Information%20Management/README.md)
 
