@@ -1,11 +1,4 @@
 # Personal Computing
-## [Knowledge Management](Knowledge%20Management/README.md)
-- [Note-taking](Knowledge%20Management/Note-taking/README.md)
-  - [OneNote](Knowledge%20Management/Note-taking/OneNote/README.md)
-  - [Notion](Knowledge%20Management/Note-taking/Notion/README.md)
-
-## [Information Management](Information%20Management/README.md)
-
 ## Human-Computer Interaction
 ### User Interfaces
 - Graphical User Interfaces
@@ -20,3 +13,14 @@ Platforms:
 - Linux
 - [Android](https://github.com/Chaoses-Ib/Linux#gui)
 - [Web](https://github.com/Chaoses-Ib/Web)
+
+## [Information Management](Information%20Management/README.md)
+
+## [Knowledge Management](Knowledge%20Management/README.md)
+- [Note-taking](Knowledge%20Management/Note-taking/README.md)
+  - [OneNote](Knowledge%20Management/Note-taking/OneNote/README.md)
+  - [Notion](Knowledge%20Management/Note-taking/Notion/README.md)
+
+## Communication
+### [Telegram](Communication/Telegram/README.md)
+- [Bots](Communication/Telegram/Bots.md)
