@@ -23,4 +23,5 @@ Platforms:
 
 ## Communication
 ### [Telegram](Communication/Telegram/README.md)
+- [Android](Communication/Telegram/Android.md)
 - [Bots](Communication/Telegram/Bots.md)
