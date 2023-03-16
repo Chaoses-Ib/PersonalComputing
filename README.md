@@ -16,6 +16,7 @@ Platforms:
 
 ## [Information Management](Information%20Management/README.md)
 - [Listary](Information%20Management/Listary/README.md)
+- [Hookmark](Information%20Management/Hookmark.md)
 
 ## [Knowledge Management](Knowledge%20Management/README.md)
 - [Note-taking](Knowledge%20Management/Note-taking/README.md)
