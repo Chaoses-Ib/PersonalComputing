@@ -4,6 +4,10 @@
 - Graphical User Interfaces
   - Color
     - [Dark Mode](UI/GUI/Color/Dark%20Mode.md)
+  - [Design Systems](UI/GUI/Design%20Systems/README.md)
+    - [Material Design](UI/GUI/Design%20Systems/Material/README.md)
+      - [Layout](UI/GUI/Design%20Systems/Material/Layout.md)
+    - [Fluent Design System](UI/GUI/Design%20Systems/Fluent/README.md)
 - Textual User Interfaces
   - [Terminal Multiplexers](UI/TUI/Terminal%20Multiplexers.md)
 - Command-Line Interfaces
