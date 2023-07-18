@@ -19,6 +19,8 @@ Platforms:
 - [Web](https://github.com/Chaoses-Ib/Web)
 
 ## [Information Management](Information%20Management/README.md)
+- [Retrieval](Information%20Management/Retrieval/README.md)
+  - [Searching](Information%20Management/Retrieval/Searching.md)
 - [Listary](Information%20Management/Listary/README.md)
 - [Hookmark](Information%20Management/Hookmark.md)
 
