@@ -30,6 +30,8 @@ Platforms:
   - [Notion](Knowledge%20Management/Note-taking/Notion/README.md)
 
 ## Communication
+- [Reddit](Communication/Reddit.md)
+
 ### [Telegram](Communication/Telegram/README.md)
 - [Android](Communication/Telegram/Android.md)
 - [Bots](Communication/Telegram/Bots.md)
