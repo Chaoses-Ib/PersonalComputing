@@ -1,9 +1,16 @@
 # [Listary](https://www.listary.com/)
-[Listary Discussions](https://discussion.listary.com/), [Wikipedia](https://en.wikipedia.org/wiki/Listary)
+[Wikipedia](https://en.wikipedia.org/wiki/Listary)
+
+[Listary Docs](https://help.listary.com/)
+
+[Listary Discussions](https://discussion.listary.com/)
 
 ## To-dos
 - 搜索
   - 精确搜索
+    - [x] 匹配评分 ([v6.3.0.45](https://discussion.listary.com/t/6-3-0-45-beta-is-live-new-file-search-window-updated-file-search-engine-new-user-documentation/8553), [中文](https://discussion.listary.com/t/6-3-0-45-beta/8554))
+
+     [有搜索不到文件夹的情况，搜索结果排序不合理 - 中文讨论区 - Listary Discussions](https://discussion.listary.com/t/topic/8551)
     - 最高性能算法
   - 拼音搜索
     - [x] 简拼
@@ -28,9 +35,18 @@
     
     [支持正则搜索吗](https://discussion.listary.com/t/topic/7991)
 - 索引
-  - [ ] Rust 引擎
+  - [x] Rust 引擎
     - [Listary 新搜索算法 & 引擎 Demo (Windows/macOS)](https://discussion.listary.com/t/listary-demo-windows-macos/7563)
     - [x] 数据库：RocksDB
+    - [x] FileDB
+    - [x] Indexers
+      - [x] NTFS
+      - [x] Notify
+        - [x] Poll
+      - [ ] Load old index before rebuild
+    - [x] Searchers
+    - [x] IPC: gRPC
+    - [x] Error repoting: Sentry
   - 静态
     - 本地文件
     - desktop.ini
@@ -60,6 +76,11 @@
     - 插件
 
       [逛Github，发现已经有人基于Listary 6 beta开发了个词典插件](https://discussion.listary.com/t/github-listary-6-beta/5753)
+    - Browsers
+      - Tabs
+      - Bookmarks
+
+        [Bookmarks (Vivaldi, Firefox, ...) - support - Listary Discussions](https://discussion.listary.com/t/bookmarks-vivaldi-firefox/8548)
     - UIA
     - WolframAlpha
     - AutoHotkey 命令
@@ -70,6 +91,9 @@
     - Timer tracker
     - DOpus FAYT
 - UI
+  - [x] File search window ([v6.3.0.45](https://discussion.listary.com/t/6-3-0-45-beta-is-live-new-file-search-window-updated-file-search-engine-new-user-documentation/8553), [中文](https://discussion.listary.com/t/6-3-0-45-beta/8554))
+
+    [很不好用啊，模糊搜索时绝大多数文件都搜索不出来 - 中文讨论区 - Listary Discussions](https://discussion.listary.com/t/topic/8536)
   - 激活
     - [x] Alt+Space 激活
     - [x] 从开始菜单激活全局搜索 ([v6.1.0.37](https://discussion.listary.com/t/6-1-0-37-beta-released/8149), [中文](https://discussion.listary.com/t/6-1-0-37-beta/8150))
@@ -115,6 +139,8 @@
 
       [Opening Listary from applications running as administrator](https://discussion.listary.com/t/opening-listary-from-applications-running-as-administrator/5759)
 
+    - 桌面激活要求管理员权限
+
   - 快速选择
     - [x] 搜索结果热键失效 bug ([v6.1.0.37](https://discussion.listary.com/t/6-1-0-37-beta-released/8149), [中文](https://discussion.listary.com/t/6-1-0-37-beta/8150))
 
@@ -157,11 +183,12 @@
     [长文件名的显示问题](https://discussion.listary.com/t/topic/4660)
 - Listary as a service
   - 文件对话框集成
+    - [x] WPS ([v6.3.0.45](https://discussion.listary.com/t/6-3-0-45-beta-is-live-new-file-search-window-updated-file-search-engine-new-user-documentation/8553), [中文](https://discussion.listary.com/t/6-3-0-45-beta/8554))
     - [x] WinRAR ([v6.1.0.37](https://discussion.listary.com/t/6-1-0-37-beta-released/8149), [中文](https://discussion.listary.com/t/6-1-0-37-beta/8150))
 
       [希望能支持winrar解压界面路径自动跳转](https://discussion.listary.com/t/winrar/7860)
 
-      [Bug：winrar解压对话框 从DOpus自动切换某些路径会出现乱码](https://discussion.listary.com/t/bug-winrar-dopus/8179)
+       - [x] [Bug：winrar解压对话框 从DOpus自动切换某些路径会出现乱码](https://discussion.listary.com/t/bug-winrar-dopus/8179) ([v6.2.0.42](https://discussion.listary.com/t/please-update-to-listary-6-2-0-42-manually-if-youre-using-6-2-0-41-beta/8421), [中文](https://discussion.listary.com/t/listary-6-2-0-42-6-2-0-41-beta/8422))
   - 列表搜索
   - [ ] 文件管理器集成
     - [x] 插件 ([v6.1.0.37](https://discussion.listary.com/t/6-1-0-37-beta-released/8149), [中文](https://discussion.listary.com/t/6-1-0-37-beta/8150))
@@ -196,8 +223,11 @@
   - ~~.NET 7~~
   - C# 语言标准
   - Issue tacker
-  - 开源生态
+  - [ ] 开源生态：[listary](https://github.com/listary)
   - 异常时捕获变量
+  - [ ] 日志文件大小限制
+
+    [Listary在appdata下的log文件能删掉吗 - 中文讨论区 - Listary Discussions](https://discussion.listary.com/t/listary-appdata-log/8485)
 
 ## Related applications
 - Everything
