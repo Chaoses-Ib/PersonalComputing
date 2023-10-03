@@ -10,7 +10,7 @@
   - 精确搜索
     - [x] 匹配评分 ([v6.3.0.45](https://discussion.listary.com/t/6-3-0-45-beta-is-live-new-file-search-window-updated-file-search-engine-new-user-documentation/8553), [中文](https://discussion.listary.com/t/6-3-0-45-beta/8554))
 
-     [有搜索不到文件夹的情况，搜索结果排序不合理 - 中文讨论区 - Listary Discussions](https://discussion.listary.com/t/topic/8551)
+      [有搜索不到文件夹的情况，搜索结果排序不合理](https://discussion.listary.com/t/topic/8551)
     - 最高性能算法
   - 拼音搜索
     - [x] 简拼
@@ -31,6 +31,19 @@
     - 编辑距离
     - 全面模糊搜索
       - 精确搜索结果为空时
+  - [x] Path matching ([v6.3.0.51](https://discussion.listary.com/t/6-3-0-45-beta-is-live-new-file-search-window-updated-file-search-engine-new-user-documentation/8553), [中文](https://discussion.listary.com/t/6-3-0-45-beta/8554))
+  
+    [When will Path matching be available? - Listary Discussions](https://discussion.listary.com/t/when-will-path-matching-be-available/8610)
+
+    - [x] Ordered folder parts
+    - [x] Forward slashes
+
+      [May Listary accept a slash "/" as path separator](https://discussion.listary.com/t/may-listary-accept-a-slash-as-path-separator/2647)
+
+      [Slash to backslash](https://discussion.listary.com/t/slash-to-backslash/3485)
+    
+    - Regex
+
   - 正则表达式
     
     [支持正则搜索吗](https://discussion.listary.com/t/topic/7991)
@@ -93,7 +106,9 @@
 - UI
   - [x] File search window ([v6.3.0.45](https://discussion.listary.com/t/6-3-0-45-beta-is-live-new-file-search-window-updated-file-search-engine-new-user-documentation/8553), [中文](https://discussion.listary.com/t/6-3-0-45-beta/8554))
 
-    [很不好用啊，模糊搜索时绝大多数文件都搜索不出来 - 中文讨论区 - Listary Discussions](https://discussion.listary.com/t/topic/8536)
+    [很不好用啊，模糊搜索时绝大多数文件都搜索不出来](https://discussion.listary.com/t/topic/8536)
+
+    - [x] Context menus ([v6.3.0.51](https://discussion.listary.com/t/6-3-0-45-beta-is-live-new-file-search-window-updated-file-search-engine-new-user-documentation/8553), [中文](https://discussion.listary.com/t/6-3-0-45-beta/8554))
   - 激活
     - [x] Alt+Space 激活
     - [x] 从开始菜单激活全局搜索 ([v6.1.0.37](https://discussion.listary.com/t/6-1-0-37-beta-released/8149), [中文](https://discussion.listary.com/t/6-1-0-37-beta/8150))
@@ -157,6 +172,19 @@
   - 搜索框图标操作
   - 动作
       - （使用 VSC）打开文件所属 Git 目录
+      - Context menus
+        - [Context Menu Missing Many Items in Recent v6 Releases 🤔](https://discussion.listary.com/t/context-menu-missing-many-items-in-recent-v6-releases/8373)
+
+          [Listary动作菜单中的快捷菜单和右键菜单不一致](https://discussion.listary.com/t/listary/8053)
+        - `Open With` not available
+
+          [右键菜单中的打开方式和发送到这两个选项都不能用](https://discussion.listary.com/t/topic/2388)
+        - `Copy` and `Cut` not available
+        - Slow to load
+
+          [关于action获取右键菜单速度的问题](https://discussion.listary.com/t/action/2463)
+
+          [动作菜单跳转迟缓的问题](https://discussion.listary.com/t/topic/5025)
   - 主题
     - [x] Dark mode ([v6.2.0.41](https://discussion.listary.com/t/6-2-0-41-beta-released-dark-theme-is-now-available/8325), [中文](https://discussion.listary.com/t/6-2-0-41-beta/8324))
 
@@ -183,12 +211,16 @@
     [长文件名的显示问题](https://discussion.listary.com/t/topic/4660)
 - Listary as a service
   - 文件对话框集成
-    - [x] WPS ([v6.3.0.45](https://discussion.listary.com/t/6-3-0-45-beta-is-live-new-file-search-window-updated-file-search-engine-new-user-documentation/8553), [中文](https://discussion.listary.com/t/6-3-0-45-beta/8554))
+    - [x] Explzh ([v6.3.0.51](https://discussion.listary.com/t/6-3-0-45-beta-is-live-new-file-search-window-updated-file-search-engine-new-user-documentation/8553), [中文](https://discussion.listary.com/t/6-3-0-45-beta/8554))
+  
     - [x] WinRAR ([v6.1.0.37](https://discussion.listary.com/t/6-1-0-37-beta-released/8149), [中文](https://discussion.listary.com/t/6-1-0-37-beta/8150))
 
       [希望能支持winrar解压界面路径自动跳转](https://discussion.listary.com/t/winrar/7860)
 
        - [x] [Bug：winrar解压对话框 从DOpus自动切换某些路径会出现乱码](https://discussion.listary.com/t/bug-winrar-dopus/8179) ([v6.2.0.42](https://discussion.listary.com/t/please-update-to-listary-6-2-0-42-manually-if-youre-using-6-2-0-41-beta/8421), [中文](https://discussion.listary.com/t/listary-6-2-0-42-6-2-0-41-beta/8422))
+  
+    - [x] WPS ([v6.3.0.45](https://discussion.listary.com/t/6-3-0-45-beta-is-live-new-file-search-window-updated-file-search-engine-new-user-documentation/8553), [中文](https://discussion.listary.com/t/6-3-0-45-beta/8554))
+  
   - 列表搜索
   - [ ] 文件管理器集成
     - [x] 插件 ([v6.1.0.37](https://discussion.listary.com/t/6-1-0-37-beta-released/8149), [中文](https://discussion.listary.com/t/6-1-0-37-beta/8150))
@@ -227,7 +259,7 @@
   - 异常时捕获变量
   - [ ] 日志文件大小限制
 
-    [Listary在appdata下的log文件能删掉吗 - 中文讨论区 - Listary Discussions](https://discussion.listary.com/t/listary-appdata-log/8485)
+    [Listary在appdata下的log文件能删掉吗](https://discussion.listary.com/t/listary-appdata-log/8485)
 
 ## Related applications
 - Everything
@@ -248,8 +280,8 @@
 
 ## History
 - 2018-12-24 [Listary 6 Beta 🎉 - release - Listary Discussions](https://discussion.listary.com/t/listary-6-beta/4615)
-- 2019-01-09 [Listary 6的界面问题 - 中文讨论区 - Listary Discussions](https://discussion.listary.com/t/listary-6/4680)
+- 2019-01-09 [Listary 6的界面问题](https://discussion.listary.com/t/listary-6/4680)
   - 自动补全？
-- 2019-12-21 [【我回来了】目前 Listary 6 中最缺哪些功能？ - 中文讨论区 - Listary Discussions](https://discussion.listary.com/t/listary-6/5531)
-- 2022-04-26 [致 Listary 用户的一封信💌 - 中文讨论区 - Listary Discussions](https://discussion.listary.com/t/listary/7237)
-- 2022-07-04 [Listary 新搜索算法 & 引擎 Demo (Windows/macOS) - 中文讨论区 - Listary Discussions](https://discussion.listary.com/t/listary-demo-windows-macos/7563)
+- 2019-12-21 [【我回来了】目前 Listary 6 中最缺哪些功能？](https://discussion.listary.com/t/listary-6/5531)
+- 2022-04-26 [致 Listary 用户的一封信💌](https://discussion.listary.com/t/listary/7237)
+- 2022-07-04 [Listary 新搜索算法 & 引擎 Demo (Windows/macOS)](https://discussion.listary.com/t/listary-demo-windows-macos/7563)
