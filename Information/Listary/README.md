@@ -180,7 +180,7 @@
 
           [右键菜单中的打开方式和发送到这两个选项都不能用](https://discussion.listary.com/t/topic/2388)
         - `Copy` and `Cut` not available
-        - Slow to load
+        - [x] Slow to load
 
           [关于action获取右键菜单速度的问题](https://discussion.listary.com/t/action/2463)
 

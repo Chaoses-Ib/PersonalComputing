@@ -1,4 +1,4 @@
-# Note-taking
+# Notes
 ## Software
 Software | Offline | Markdown | Math | Pen input | Other
 --- | --- | --- | --- | --- | ---

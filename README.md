@@ -3,31 +3,31 @@
 ### User Interfaces
 - Graphical User Interfaces
   - Color
-    - [Dark Mode](UI/GUI/Color/Dark%20Mode.md)
-  - [Design Systems](UI/GUI/Design%20Systems/README.md)
-    - [Material Design](UI/GUI/Design%20Systems/Material/README.md)
-      - [Layout](UI/GUI/Design%20Systems/Material/Layout.md)
-    - [Fluent Design System](UI/GUI/Design%20Systems/Fluent/README.md)
+    - [Dark Mode](Interfaces/Graphical/Color/Dark%20Mode.md)
+  - [Design Systems](Interfaces/Graphical/Systems/README.md)
+    - [Material Design](Interfaces/Graphical/Systems/Material/README.md)
+      - [Layout](Interfaces/Graphical/Systems/Material/Layout.md)
+    - [Fluent Design System](Interfaces/Graphical/Systems/Fluent/README.md)
 - Textual User Interfaces
-  - [Terminal Multiplexers](UI/TUI/Terminal%20Multiplexers.md)
+  - [Terminal Multiplexers](Interfaces/Textual/Multiplexers.md)
 - Command-Line Interfaces
 
 Platforms:
-- [Windows](https://github.com/Chaoses-Ib/Windows#user-interfaces)
-- Linux
-- [Android](https://github.com/Chaoses-Ib/Linux#gui)
-- [Web](https://github.com/Chaoses-Ib/Web)
+- [→Windows](https://github.com/Chaoses-Ib/Windows#user-interfaces)
+- [→Linux](https://github.com/Chaoses-Ib/Linux)
+- [→Android](https://github.com/Chaoses-Ib/Linux#gui)
+- [→Web](https://github.com/Chaoses-Ib/Web)
 
-## [Information Management](Information%20Management/README.md)
-- [Retrieval](Information%20Management/Retrieval/README.md)
-  - [Searching](Information%20Management/Retrieval/Searching.md)
-- [Listary](Information%20Management/Listary/README.md)
-- [Hookmark](Information%20Management/Hookmark.md)
+## [Information Management](Information/README.md)
+- [Retrieval](Information/Retrieval/README.md)
+  - [Searching](Information/Retrieval/Searching.md)
+- [Listary](Information/Listary/README.md)
+- [Hookmark](Information/Hookmark.md)
 
-## [Knowledge Management](Knowledge%20Management/README.md)
-- [Note-taking](Knowledge%20Management/Note-taking/README.md)
-  - [OneNote](Knowledge%20Management/Note-taking/OneNote/README.md)
-  - [Notion](Knowledge%20Management/Note-taking/Notion/README.md)
+## [Knowledge Management](Knowledge/README.md)
+- [Notes](Knowledge/Notes/README.md)
+  - [OneNote](Knowledge/Notes/OneNote/README.md)
+  - [Notion](Knowledge/Notes/Notion/README.md)
 
 ## Communication
 - [Reddit](Communication/Reddit.md)
