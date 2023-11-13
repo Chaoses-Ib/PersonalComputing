@@ -2,6 +2,13 @@
 ## Human-Computer Interaction
 ### User Interfaces
 - Graphical User Interfaces
+  - [Elements](Interfaces/Graphical/Elements/README.md)
+    - [Badges](Interfaces/Graphical/Elements/Badges.md)
+    - [Carousels](Interfaces/Graphical/Elements/Carousels.md)
+    - [Cue Banners](Interfaces/Graphical/Elements/Cue%20Banners.md)
+    - [Chips](Interfaces/Graphical/Elements/Chips.md)
+    - [Placeholders](Interfaces/Graphical/Elements/Placeholders.md)
+    - [Snackbars](Interfaces/Graphical/Elements/Snackbars.md)
   - Color
     - [Dark Mode](Interfaces/Graphical/Color/Dark%20Mode.md)
   - [Design Systems](Interfaces/Graphical/Systems/README.md)
