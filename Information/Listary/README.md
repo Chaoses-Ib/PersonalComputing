@@ -5,6 +5,9 @@
 
 [Listary Discussions](https://discussion.listary.com/)
 
+- [Channing (@HiChanning) / X](https://twitter.com/HiChanning)
+- [@炼丹的Channing 的个人主页 - 微博](https://weibo.com/u/6371340585)
+
 ## To-dos
 - 搜索
   - 精确搜索
@@ -47,19 +50,24 @@
   - 正则表达式
     
     [支持正则搜索吗](https://discussion.listary.com/t/topic/7991)
+  - [x] Priority
+    - [x] System and hidden files ([v6.3.0.55](https://discussion.listary.com/t/major-file-search-window-update-6-3-0-55-beta/8756), [中文](https://discussion.listary.com/t/v6-3-0-55-beta/8757))
+    - [x] Executable file name extensions ([v6.3.0.57](https://discussion.listary.com/t/major-file-search-window-update-6-3-0-55-beta/8756), [中文](https://discussion.listary.com/t/v6-3-0-55-beta/8757))
 - 索引
   - [x] Rust 引擎
     - [Listary 新搜索算法 & 引擎 Demo (Windows/macOS)](https://discussion.listary.com/t/listary-demo-windows-macos/7563)
     - [x] 数据库：RocksDB
     - [x] FileDB
+      - [x] me-hashbrown
     - [x] Indexers
       - [x] NTFS
+        - [ ] Hard links
       - [x] Notify
         - [x] Poll
       - [ ] Load old index before rebuild
     - [x] Searchers
     - [x] IPC: gRPC
-    - [x] Error repoting: Sentry
+    - [x] Error repoting: tracing, Sentry
   - 静态
     - 本地文件
     - desktop.ini
@@ -109,6 +117,7 @@
     [很不好用啊，模糊搜索时绝大多数文件都搜索不出来](https://discussion.listary.com/t/topic/8536)
 
     - [x] Context menus ([v6.3.0.51](https://discussion.listary.com/t/6-3-0-45-beta-is-live-new-file-search-window-updated-file-search-engine-new-user-documentation/8553), [中文](https://discussion.listary.com/t/6-3-0-45-beta/8554))
+    - [x] Side bar ([v6.3.0.55](https://discussion.listary.com/t/major-file-search-window-update-6-3-0-55-beta/8756), [中文](https://discussion.listary.com/t/v6-3-0-55-beta/8757))
   - 激活
     - [x] Alt+Space 激活
     - [x] 从开始菜单激活全局搜索 ([v6.1.0.37](https://discussion.listary.com/t/6-1-0-37-beta-released/8149), [中文](https://discussion.listary.com/t/6-1-0-37-beta/8150))
@@ -206,6 +215,8 @@
     [Listary 6 调用surface book 独立显卡的问题](https://discussion.listary.com/t/listary-6-surface-book/4948)
 
     [Listary 阻止显卡切换](https://discussion.listary.com/t/listary/7602)
+
+    [打游戏切换显卡时候，就提示显示模式不可用 - 中文讨论区 - Listary Discussions](https://discussion.listary.com/t/topic/8786)
   - [x] 长路径 ([v6.2.0.41](https://discussion.listary.com/t/6-2-0-41-beta-released-dark-theme-is-now-available/8325), [中文](https://discussion.listary.com/t/6-2-0-41-beta/8324))
 
     [长文件名的显示问题](https://discussion.listary.com/t/topic/4660)

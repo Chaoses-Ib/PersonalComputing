@@ -5,8 +5,11 @@
   - [Elements](Interfaces/Graphical/Elements/README.md)
     - [Badges](Interfaces/Graphical/Elements/Badges.md)
     - [Carousels](Interfaces/Graphical/Elements/Carousels.md)
+    - [Command Palettes](Interfaces/Graphical/Elements/Command%20Palettes.md)
     - [Cue Banners](Interfaces/Graphical/Elements/Cue%20Banners.md)
     - [Chips](Interfaces/Graphical/Elements/Chips.md)
+    - [Palettes](Interfaces/Graphical/Elements/Palettes.md)
+    - [Panels](Interfaces/Graphical/Elements/Panels.md)
     - [Placeholders](Interfaces/Graphical/Elements/Placeholders.md)
     - [Snackbars](Interfaces/Graphical/Elements/Snackbars.md)
   - Color
