@@ -1,6 +1,10 @@
 # Dark Mode
 ## Implementations
 ### Windows
+[Discussion: Dark mode for applications - Issue #41 - microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK/issues/41)
+
+[ShouldAppsUseDarkMode is incorrect on Win10 1903+ - Issue #3 - ysc3839/win32-darkmode](https://github.com/ysc3839/win32-darkmode/issues/3)
+
 Applications:
 Application | Dark mode
 --- | ---
