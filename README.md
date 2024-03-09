@@ -31,6 +31,7 @@ Platforms:
 ## [Information Management](Information/README.md)
 - [Retrieval](Information/Retrieval/README.md)
   - [Searching](Information/Retrieval/Searching.md)
+- [Zotero](Information/Zotero/README.md)
 - [Listary](Information/Listary/README.md)
 - [Hookmark](Information/Hookmark.md)
 
