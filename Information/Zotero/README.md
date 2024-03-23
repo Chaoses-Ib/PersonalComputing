@@ -12,6 +12,26 @@
 New features:
 - Dark mode
 
+## PDF reader
+[The Zotero PDF Reader and Note Editor](https://www.zotero.org/support/pdf_reader)
+
+- Free
+- Dark mode (v7)
+- Autolinks for URLs and DOIs
+
+  [Feature request: links in pdf document in reader should be clickable - Zotero Forums](https://forums.zotero.org/discussion/95485/feature-request-links-in-pdf-document-in-reader-should-be-clickable)
+
+  But not for plain-text citations.
+
+- Preview page when hovering links (citations)
+- Internal annotations
+
+  Annotations created in the built-in PDF reader are stored in the Zotero database, so they won't be visible in external PDF readers unless you export a PDF with embedded annotations. See [Annotations in Database](https://www.zotero.org/support/kb/annotations_in_database) for more info.
+
+  - Image annotations
+  - Syncing
+- "Open Documents" support when adding citations
+
 ## Add-ons
 [plugins \[Zotero Documentation\]](https://www.zotero.org/support/plugins)
 
