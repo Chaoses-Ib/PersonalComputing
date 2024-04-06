@@ -1,6 +1,21 @@
 # [Telegram](https://telegram.org/)
 [Telegram Limits](https://limits.tginfo.me/)  
 
+## Chat history
+- 群组被封禁后，本地的聊天记录缓存并不会被删除，可以搜索到。（Windows）
+  - 但是不能用 UIA 提取搜索结果，只能 OCR。
+  - 虽然可以在设置中导出数据，但是不能导出公共群组的数据。
+
+OSINT:
+- [Telepathy-Community: Public release of Telepathy, an OSINT toolkit for investigating Telegram chats.](https://github.com/proseltd/Telepathy-Community)
+- [bibaandboba: Python package for analyzing Telegram chats and finding correlations between people](https://github.com/andylvua/bibaandboba)
+- [TelAnalysis: Telegram Analysis tool](https://github.com/krakodjaba/TelAnalysis)
+- [TelegramExporter: Telegram Exporter is a forensic tool to extract all chats of a given Telegram account.](https://github.com/KeL3vRa/TelegramExporter)
+
+Viewer:
+- [telegram-desktop-decrypt: Tool to decrypt tdata files.](https://github.com/atilaromero/telegram-desktop-decrypt)
+- [teleparser: Telegram cache4.db parser](https://github.com/RealityNet/teleparser)
+
 ## Searching
 [Improve the ability to search chat history for Asian regional languages, such as Chinese and Japanese – Bugs and Suggestions](https://bugs.telegram.org/c/724)
 

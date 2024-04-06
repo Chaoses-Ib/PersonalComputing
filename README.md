@@ -44,5 +44,6 @@ Platforms:
 - [Reddit](Communication/Reddit.md)
 
 ### [Telegram](Communication/Telegram/README.md)
+- [Windows](Communication/Telegram/Windows.md)
 - [Android](Communication/Telegram/Android.md)
 - [Bots](Communication/Telegram/Bots.md)
