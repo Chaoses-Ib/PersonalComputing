@@ -16,6 +16,16 @@ Viewer:
 - [telegram-desktop-decrypt: Tool to decrypt tdata files.](https://github.com/atilaromero/telegram-desktop-decrypt)
 - [teleparser: Telegram cache4.db parser](https://github.com/RealityNet/teleparser)
 
+### Auto-forward
+- [tgcf: The ultimate tool to automate custom telegram message forwarding. Live-syncer, Auto-poster, backup-bot, cloner, chat-forwarder, duplicator, ... Call it whatever you like! tgcf can fulfill your custom needs.](https://github.com/aahnik/tgcf)
+  - `past` mode will only forward past messages. There is no `past-and-live` mode.
+  - `past` mode will automatically update `offset` after each run.
+- [telegram-forwarder-bot: Forward Telegram messages between chats using pure Telegram Bot API and Webhooks](https://github.com/viperadnan-git/telegram-forwarder-bot)
+- [PyWardBot: A Telegram forwarding bot](https://github.com/Nunnito/PyWardBot)
+
+Discord:
+- [Telegram to Discord Message Bot](https://github.com/kkapuria3/Telegram-To-Discord-Forward-Bot)
+
 ## Searching
 [Improve the ability to search chat history for Asian regional languages, such as Chinese and Japanese – Bugs and Suggestions](https://bugs.telegram.org/c/724)
 
