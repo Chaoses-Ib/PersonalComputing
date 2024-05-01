@@ -39,3 +39,13 @@ New features:
 
 - [Add-on Market for Zotero: Install add-ons directly in Zotero | Zotero插件市场](https://github.com/syt2/zotero-addons)
 - [SciPDF For Zotero: Download PDF from Sci-Hub automatically For Zotero7](https://github.com/syt2/zotero-scipdf)
+
+## Citation counts
+- [Zotero Citation Counts Manager: Zotero plugin for auto-fetching citation counts from various sources](https://github.com/eschnett/zotero-citationcounts)
+  - [Zotero 7 Citation Counts Manager Enhaned](https://github.com/FrLars21/ZoteroCitationCountsManager)
+  - [Zotero-Literature-Manager: A plugin for Zotero to automatically retrieve citation, official code link, conference, related papers and so on.](https://github.com/AlbertShenC/Zotero-Literature-Manager)
+
+- [Google Scholar Citation Count for Zotero](https://github.com/justinribeiro/zotero-google-scholar-citation-count)
+  - [Zotero 7 Support - Issue #14 - justinribeiro/zotero-google-scholar-citation-count](https://github.com/justinribeiro/zotero-google-scholar-citation-count/issues/14)
+
+[Citation count - Zotero Forums](https://forums.zotero.org/discussion/77638/citation-count)
