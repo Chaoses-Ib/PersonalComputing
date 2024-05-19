@@ -49,3 +49,11 @@ New features:
   - [Zotero 7 Support - Issue #14 - justinribeiro/zotero-google-scholar-citation-count](https://github.com/justinribeiro/zotero-google-scholar-citation-count/issues/14)
 
 [Citation count - Zotero Forums](https://forums.zotero.org/discussion/77638/citation-count)
+
+## Citation styles
+[Citation Styles](https://www.zotero.org/support/styles)
+
+[Zotero Style Repository](https://www.zotero.org/styles)
+
+[GB/T 7714 信息与文献　参考文献著录规则](https://zh.wikipedia.org/wiki/GB/T_7714)
+- [GB/T 7714—2015 相关的 CSL 样式](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl)
