@@ -40,6 +40,8 @@ Platforms:
   - [OneNote](Knowledge/Notes/OneNote/README.md)
   - [Notion](Knowledge/Notes/Notion/README.md)
 
+## [Microsoft Office](Office/README.md)
+
 ## Communication
 - [Reddit](Communication/Reddit.md)
 
