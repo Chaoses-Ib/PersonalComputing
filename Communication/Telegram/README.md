@@ -20,6 +20,9 @@ Viewer:
 - [tgcf: The ultimate tool to automate custom telegram message forwarding. Live-syncer, Auto-poster, backup-bot, cloner, chat-forwarder, duplicator, ... Call it whatever you like! tgcf can fulfill your custom needs.](https://github.com/aahnik/tgcf)
   - `past` mode will only forward past messages. There is no `past-and-live` mode.
   - `past` mode will automatically update `offset` after each run.
+  - [How to run tgcf as a service in background ? - aahnik/tgcf - Discussion #219](https://github.com/aahnik/tgcf/discussions/219)
+    - [Install and run using docker - aahnik/tgcf Wiki](https://github.com/aahnik/tgcf/wiki/Install-and-run-using-docker)
+    - [Using with systemctl - aahnik/tgcf Wiki](https://github.com/aahnik/tgcf/wiki/Using-with-systemctl)
 - [telegram-forwarder-bot: Forward Telegram messages between chats using pure Telegram Bot API and Webhooks](https://github.com/viperadnan-git/telegram-forwarder-bot)
 - [PyWardBot: A Telegram forwarding bot](https://github.com/Nunnito/PyWardBot)
 
