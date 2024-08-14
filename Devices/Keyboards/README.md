@@ -34,4 +34,7 @@
 - > 传统机械轴必然会双击，越是追求高回报低时延快触发的键盘，越是会更快双击，反之双击越慢，轴体寿命更久。这在一定程度上也能解释为什么以前的机械键盘能用很久。
 
 Tools:
+- 任何可以实时计数的文本编辑器 + 每批次按5下
 - [键盘双击测试 | 检查重复输入问题 | CPS Check](https://cps-check.com/cn/double-click-keyboard)
+  - 可能是 Web API 或扫描率的原因，延迟并不准确
+- [KEYBOARD COUNTER](https://doubleclicktest.com/keyboard-counter.html)
