@@ -1,5 +1,30 @@
 # Personal Computing
 ## Human-Computer Interaction
+### [Human Interface Devices](Devices/README.md)
+- Hands
+  - [Keyboards](Devices/Keyboards/README.md)
+    - [Mechanical Keyboards](Devices/Keyboards/Mechanical.md)
+    - [Capacitive Keyboards](Devices/Keyboards/Capacitive.md)
+    - [Magnetic Keyboards](Devices/Keyboards/Magnetic.md)
+  - [Mice](Devices/Mice/README.md)
+    - [Scroll Wheels](Devices/Mice/Scroll%20Wheels.md)
+  - [Trackballs](Devices/Trackballs/README.md)
+  - [Touchpads](Devices/Touchpads/README.md)
+  - [Touchscreens](Devices/Touchscreen/README.md)
+  - [Graphics Tablets](Devices/Graphics%20Tablets/README.md) 
+  - [Pointing Sticks](Devices/Poingting%20Sticks/README.md)
+  - [Joysticks](Devices/Joysticks/README.md)
+  - [Gamepads](Devices/Gamepads/README.md)
+- Feet
+  - [Foot Pedals](Devices/Foot%20Pedals/README.md)
+  - [Footmice](Devices/Footmice/README.md)
+  - [Dance Pads](Devices/Dance%20Pads/README.md)
+- Eyes
+  - [→Eye Trackers](https://github.com/Chaoses-Ib/VisualComputing/blob/main/Photography/Eye%20Trackers/README.md)
+- Throats
+  - [→Microphones](https://github.com/Chaoses-Ib/SoundComputing/blob/main/Recording/Microphones.md)
+- [→Webcams](https://github.com/Chaoses-Ib/VisualComputing/blob/main/Photography/Cameras/Webcams.md)
+
 ### User Interfaces
 - Graphical User Interfaces
   - [Elements](Interfaces/Graphical/Elements/README.md)
