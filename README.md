@@ -1,4 +1,4 @@
-# Personal Computing
+# [Personal Computing](<Personal Computing.md>)
 ## Human-Computer Interaction
 ### [Human Interface Devices](Devices/README.md)
 - Hands
@@ -25,7 +25,7 @@
   - [→Microphones](https://github.com/Chaoses-Ib/SoundComputing/blob/main/Recording/Microphones.md)
 - [→Webcams](https://github.com/Chaoses-Ib/VisualComputing/blob/main/Photography/Cameras/Webcams.md)
 
-### User Interfaces
+### [User Interfaces](Interfaces/README.md)
 - Graphical User Interfaces
   - [Elements](Interfaces/Graphical/Elements/README.md)
     - [Badges](Interfaces/Graphical/Elements/Badges.md)
