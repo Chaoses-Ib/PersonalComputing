@@ -7,6 +7,21 @@
 
 - [Channing (@HiChanning) / X](https://twitter.com/HiChanning)
 - [@炼丹的Channing 的个人主页 - 微博](https://weibo.com/u/6371340585)
+- [Channing Dai | LinkedIn](https://www.linkedin.com/in/channingd)
+  - [Channing Dai | LinkedIn](https://www.linkedin.com/in/channing-dai-41031210)
+- [V2EX › Channing](https://global.v2ex.co/member/Channing)
+
+Bopsoft:
+- 2017-10~2022-09 [Haptic Touch Bar app - tactile and sound feedback for your MacBook Pro Touch Bar](https://www.haptictouchbar.com/)
+  - [Haptic Touch Bar - 为 Touch Bar 添加震动反馈 - 荔枝软件商店](https://lizhi.shop/site/products/id/159)
+- 2022-09 [Function Key Pro - Use a single function key to launch apps/use media features/simulate complex hotkeys](https://functionkey.pro/)
+
+  [Function Key Pro - Product Information, Latest Updates, and Reviews 2023 | Product Hunt](https://www.producthunt.com/products/function-key-pro)
+
+## Security
+- [exploiting Listary: Searching your way to SYSTEM privileges | by Tomer Peled | Medium](https://medium.com/@tomerp_77017/exploiting-listary-searching-your-way-to-system-privileges-8175af676c3e)
+
+[阿里云漏洞库](https://avd.aliyun.com/product?prod=listary)
 
 ## To-dos
 - 搜索
@@ -61,7 +76,7 @@
       - [x] me-hashbrown
     - [x] Indexers
       - [x] NTFS
-        - [ ] Hard links
+        - [x] Hard links ([v6.3.0.61](https://discussion.listary.com/t/smarter-sorting-and-more-stable-index-engine-listary-6-3-0-63-beta/8846), [中文](https://discussion.listary.com/t/listary-6-3-0-63-beta/8847))
       - [x] Notify
         - [x] Poll
       - [ ] Load old index before rebuild
@@ -118,6 +133,7 @@
 
     - [x] Context menus ([v6.3.0.51](https://discussion.listary.com/t/6-3-0-45-beta-is-live-new-file-search-window-updated-file-search-engine-new-user-documentation/8553), [中文](https://discussion.listary.com/t/6-3-0-45-beta/8554))
     - [x] Side bar ([v6.3.0.55](https://discussion.listary.com/t/major-file-search-window-update-6-3-0-55-beta/8756), [中文](https://discussion.listary.com/t/v6-3-0-55-beta/8757))
+    - [x] History ([v6.3.0.61](https://discussion.listary.com/t/smarter-sorting-and-more-stable-index-engine-listary-6-3-0-63-beta/8846), [中文](https://discussion.listary.com/t/listary-6-3-0-63-beta/8847))
   - 激活
     - [x] Alt+Space 激活
     - [x] 从开始菜单激活全局搜索 ([v6.1.0.37](https://discussion.listary.com/t/6-1-0-37-beta-released/8149), [中文](https://discussion.listary.com/t/6-1-0-37-beta/8150))
@@ -221,6 +237,7 @@
 
     [长文件名的显示问题](https://discussion.listary.com/t/topic/4660)
 - Listary as a service
+  - URL schema
   - 文件对话框集成
     - [x] Explzh ([v6.3.0.51](https://discussion.listary.com/t/6-3-0-45-beta-is-live-new-file-search-window-updated-file-search-engine-new-user-documentation/8553), [中文](https://discussion.listary.com/t/6-3-0-45-beta/8554))
   
@@ -296,3 +313,4 @@
 - 2019-12-21 [【我回来了】目前 Listary 6 中最缺哪些功能？](https://discussion.listary.com/t/listary-6/5531)
 - 2022-04-26 [致 Listary 用户的一封信💌](https://discussion.listary.com/t/listary/7237)
 - 2022-07-04 [Listary 新搜索算法 & 引擎 Demo (Windows/macOS)](https://discussion.listary.com/t/listary-demo-windows-macos/7563)
+- 2023-12-29 [Listary V6.3 新版发布：更大的搜索窗口，更多的搜索结果 - 大家的板块 / 青蛙的应用 - 小众软件官方论坛](https://meta.appinn.net/t/topic/50887)
