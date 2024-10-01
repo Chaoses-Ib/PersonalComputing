@@ -55,9 +55,19 @@ Platforms:
 - [→Web](https://github.com/Chaoses-Ib/Web)
 
 ## [Information Management](Information/README.md)
+- Sentences
+- Paragraphs
+  - [Reddit](Information/Paragraphs/Reddit.md)
+  - [Telegram](Information/Paragraphs/Telegram/README.md)
+    - [Windows](Information/Paragraphs/Telegram/Windows.md)
+    - [Android](Information/Paragraphs/Telegram/Android.md)
+    - [Bots](Information/Paragraphs/Telegram/Bots.md)
+- Articles
+- Papers
+  - [Zotero](Information/Papers/Zotero/README.md)
+- Books
 - [Retrieval](Information/Retrieval/README.md)
   - [Searching](Information/Retrieval/Searching.md)
-- [Zotero](Information/Zotero/README.md)
 - [Listary](Information/Listary/README.md)
 - [Hookmark](Information/Hookmark.md)
 
@@ -67,11 +77,3 @@ Platforms:
   - [Notion](Knowledge/Notes/Notion/README.md)
 
 ## [Microsoft Office](Office/README.md)
-
-## Communication
-- [Reddit](Communication/Reddit.md)
-
-### [Telegram](Communication/Telegram/README.md)
-- [Windows](Communication/Telegram/Windows.md)
-- [Android](Communication/Telegram/Android.md)
-- [Bots](Communication/Telegram/Bots.md)
