@@ -6,18 +6,19 @@
   - Text: sentences, paragraphs, articles, papers, books
     - Sentences: IM chats/groups: Telegram/Discord/QQ/微信/SMS
     - Paragraphs: Twitter, Telegram channels, Reddit/HackerNews, Quora/知乎, mails
-      - Telegram channels/SavedMessages
+      - Management: Telegram channels/SavedMessages
     - Articles: blogs, Medium/微信公众号/知乎专栏
-      - RSS
-      - HackerNews/Reddit/Twitter/Telegram links
-      - Search engines
+      - Raw: RSS/Telegram-channels
+      - Filtered: {HackerNews/Reddit, Twitter, Telegram} links
+      - Search: Google
     - Papers: arXiv
-      - Google Scholar
-      - Zotero
+      - Search: Google Scholar
+      - Management: Zotero
     - Books: Z-Library
-      - Knowledge bases
+      - Management: knowledge bases
   - Image: images
-    - Images: Pixiv, Twitter, Reddit, Telegram channels
+    - Images: Pixiv, Twitter
+      - Filtered: Reddit, Telegram channels
   - Video: short videos, long videos, series
     - Short videos: TikTok, Twitter, YouTube, Reddit, Telegram channels, 哔哩哔哩, 微信视频号
     - Long videos/series: YouTube, 哔哩哔哩, Telegram channels
@@ -39,6 +40,9 @@
   - 娱乐信息的收益大于理性信息，因此涉及媒介种类越多的信息越倾向于首先应用于娱乐上
 - 平台涉及的媒介种类越多，潜在用户群就越大
   - Telegram > Twitter > Reddit > 微信 > 知乎 > HackerNews
+- 阅读成本越高的信息越需要 filter
+- 制作成本越低的信息也越需要 filter
+  - LLM 降低了信息的制作成本，增大了 filter 的需要
 
 
 [^wiki]: [Personal information management - Wikipedia](https://en.wikipedia.org/wiki/Personal_information_management)
