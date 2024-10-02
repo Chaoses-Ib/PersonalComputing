@@ -78,3 +78,5 @@ Platforms:
   - [Notion](Knowledge/Notes/Notion/README.md)
 
 ## [Microsoft Office](Office/README.md)
+
+## [Human-centered Computing (HCC)](Human/README.md)
