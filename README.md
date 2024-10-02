@@ -44,7 +44,8 @@
       - [Layout](Interfaces/Graphical/Systems/Material/Layout.md)
     - [Fluent Design System](Interfaces/Graphical/Systems/Fluent/README.md)
   - [Screenshots](Interfaces/Graphical/Screenshots.md)
-- Textual User Interfaces
+- [Textual User Interfaces](Interfaces/Textual/README.md)
+  - [Terminals](Interfaces/Textual/Terminals.md)
   - [Terminal Multiplexers](Interfaces/Textual/Multiplexers.md)
 - Command-Line Interfaces
 
