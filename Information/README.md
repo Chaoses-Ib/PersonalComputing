@@ -5,7 +5,7 @@
 - Visual
   - Text: sentences, paragraphs, articles, papers, books
     - Sentences: IM chats/groups: Telegram/Discord/QQ/微信/SMS
-    - Paragraphs: Twitter, Telegram channels, Reddit/HackerNews, Quora/知乎, mails
+    - Paragraphs: Twitter, Telegram channels, Reddit/HackerNews, Quora/知乎, V2EX, mails
       - Management: Telegram channels/SavedMessages
     - Articles: blogs, Medium/微信公众号/知乎专栏
       - Raw: RSS/Telegram-channels
