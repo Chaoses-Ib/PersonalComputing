@@ -1,6 +1,9 @@
 # Personal Information Management
 **Personal information management (PIM)** is the study of the activities people perform in order to acquire or create, store, organize, maintain, retrieve, and use information items such as documents, web pages, and email messages for everyday use to complete tasks and fulfill a person's various roles.[^wiki]
 
+## vs. Natural Languages
+PIM 关心的并不是具体的信息或文本，而是信息之间的关系。关心具体文本的是 [Natural Language Processing](https://github.com/Chaoses-Ib/ArtificialIntelligence#natural-language-processing)，关系具体图像/视频的是 [Visual Computing](https://github.com/Chaoses-Ib/VisualComputing)，关心具体音频的是 [Auditory Computing](https://github.com/Chaoses-Ib/AuditoryComputing)。
+
 ## Human information
 - Visual
   - Text: sentences, paragraphs, articles, papers, books
