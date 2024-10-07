@@ -47,7 +47,7 @@
 - [Textual User Interfaces](Interfaces/Textual/README.md)
   - [Terminals](Interfaces/Textual/Terminals.md)
   - [Terminal Multiplexers](Interfaces/Textual/Multiplexers.md)
-- Command-Line Interfaces
+- [Command-Line Interfaces](Interfaces/Command-line/README.md)
 
 Platforms:
 - [→Windows](https://github.com/Chaoses-Ib/Windows#user-interfaces)
