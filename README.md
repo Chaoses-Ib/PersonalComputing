@@ -57,6 +57,7 @@ Platforms:
 
 ## [Information Management](Information/README.md)
 - Sentences
+  - [QQ](Information/Sentences/QQ/README.md)
 - Paragraphs
   - [Reddit](Information/Paragraphs/Reddit.md)
   - [Telegram](Information/Paragraphs/Telegram/README.md)
