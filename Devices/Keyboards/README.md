@@ -10,7 +10,37 @@
 [用拼音输入汉字时，各字母的使用频率是怎样的？ - 知乎](https://www.zhihu.com/question/23111438)
 
 ## Layouts
+[Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout)
+
+- 108 (105%)
+- 104 (100%)
+
+  [关于全键位机械键盘的占比 - 知乎](https://zhuanlan.zhihu.com/p/602839716)
+- 98 (95%)
+
+  > 主要缺点就是你可能需要一段时间来适应新的按键布局，以及偶尔去用别人的电脑时，面对104配列的键盘会疯狂误触。最常见的就是按【Delete键】时按到【F12】，最下一排按键的误触。
+- 96 (95%)
+- 87 (80%, Tenkeyless, TKL)
+- 86 (80%)
+- 84 (80%)
+- 81 (75%)
+- 68 (65%)
+- 61 (60%)
+- 40%
+
+[Keyboard Sizes & Layouts --- Keyboard University](https://www.keyboard.university/100-courses/keyboard-sizes-layouts-gdeby)
+
+[我到底应该选多少键的键盘------机械键盘配列选择指南 - 秋风于渭水](https://www.tjsky.net/tutorial/1041)
+> 数字区存在的意义是，大多数日文输入法状态下，按下小键盘的数字直接就是半角的，从而跳过选择区。而且对于C语言来说，小键盘的【/】、【*】、【.】、【+】能一键输出，非常有用。
+
+[小白客制键盘DIY不求人系列（二）Keyboard Editor 选择一个适合自己的配列 - zFrontier 装备前线](https://www.zfrontier.com/app/flow/2E0oO8OqX3XO)
+- [Keyboard Layout Editor](https://www.keyboard-layout-editor.com/)
+
+[机械键盘入门、选购指南------键位（配列）篇](https://www.zhihu.com/tardis/zm/art/428619353)
+
 [麻雀虽小，五脏俱全：「小配列键盘」为什么越来越受用户喜爱？ - 少数派](https://sspai.com/post/73206)
+
+[机械键盘"配列"大集合 - 键盘 - in外设 - 分享外设精彩-inwaishe](http://www.inwaishe.com/thread-22604-1-1.html)
 
 ## 人体工学键盘
 [手腕救星还是烧钱摆件？聊聊人体工学键盘 - 少数派](https://sspai.com/post/67354)
