@@ -4,6 +4,9 @@
 [机械键盘自行选购指南：从只买一把到直入深坑 - 少数派](https://sspai.com/post/64972)
 
 - 2023-06 [618 硬件推荐：值得关注的好键盘 - 少数派](https://sspai.com/post/80308)
+- 2024-08 [2024年机械键盘推荐 来自 七月同学 - 酷安](https://coolapk.com/feed/58377191)
+  - > 燃风静电容45g＞阿米洛静电容＞宁芝静电容35g＞国产轴体＞樱桃轴体＞薄膜
+- 2024-11 [双十一键盘怎么挑？（2024 版） - 少数派](https://sspai.com/post/93631)
 
 [zFrontier 装备前线](https://www.zfrontier.com/app/circle/1)
 
