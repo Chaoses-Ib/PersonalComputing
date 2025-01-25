@@ -213,6 +213,7 @@ LODK:
 
 - [ROG Azoth](https://rog.asus.com/keyboards/keyboards/aura-rgb/rog-azoth-model/) (2023-01-19)
   - 5 pin
+  - Keycaps: PBT doubleshot
 
   [Asus ROG Azoth Review | PCMag](https://www.pcmag.com/reviews/asus-rog-azoth)
 

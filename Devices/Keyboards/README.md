@@ -73,3 +73,14 @@ Tools:
 - [键盘双击测试 | 检查重复输入问题 | CPS Check](https://cps-check.com/cn/double-click-keyboard)
   - 可能是 Web API 或扫描率的原因，延迟并不准确，放慢速度才能避免假阳性
 - [KEYBOARD COUNTER](https://doubleclicktest.com/keyboard-counter.html)
+
+## Keycaps
+### Cleaning
+[Proper way of cleaning keycaps? : r/MechanicalKeyboards](https://www.reddit.com/r/MechanicalKeyboards/comments/rwffi7/proper_way_of_cleaning_keycaps/)
+
+[How to clean PBT keycaps without damaging them? : r/MechanicalKeyboards](https://www.reddit.com/r/MechanicalKeyboards/comments/7pw8u5/how_to_clean_pbt_keycaps_without_damaging_them/)
+> Most people just recommend warm water and soap. I've also heard denture tabs to be quite effective
+
+[Keycaps 101: How to Clean and Maintain Like a Pro](https://keyreative.store/blogs/news/keycaps-101-how-to-clean-and-maintain-like-a-pro)
+
+[我居然用洗碗机洗了它，效果还特好------机械键盘清洁新玩法\_键盘\_什么值得买](https://post.smzdm.com/p/ax0xv2wd/)
