@@ -66,8 +66,10 @@
 - > 会的，一般是触点问题，如果动手能力不是很强也不是热插拔的，可以某宝买机械键盘神油或者WD40，往里滴1滴不要滴多，然后一直连敲按键半分钟，1分钟这样。
 - > 传统机械轴必然会双击，越是追求高回报低时延快触发的键盘，越是会更快双击，反之双击越慢，轴体寿命更久。这在一定程度上也能解释为什么以前的机械键盘能用很久。
 
+Sequence: Y; G
+
 Tools:
 - 任何可以实时计数的文本编辑器 + 每批次按5下
 - [键盘双击测试 | 检查重复输入问题 | CPS Check](https://cps-check.com/cn/double-click-keyboard)
-  - 可能是 Web API 或扫描率的原因，延迟并不准确
+  - 可能是 Web API 或扫描率的原因，延迟并不准确，放慢速度才能避免假阳性
 - [KEYBOARD COUNTER](https://doubleclicktest.com/keyboard-counter.html)

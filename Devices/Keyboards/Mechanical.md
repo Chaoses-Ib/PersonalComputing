@@ -62,6 +62,13 @@
 
 [从c茶到box红，3天后报告 NGA玩家社区](https://ngabbs.com/read.php?tid=30719344)
 
+尽管缺少绝对度量，但购买一个热门 key switch 可以获得较多的相对比较。
+
+购买时可能有部分针脚弯曲或有其它损坏，不当插入也可能导致损坏，最好留些余量。
+
+拔轴是夹住轴的上下来拔的，夹左右会非常吃力，虽然也能拔掉。
+
+### Brands
 凯华:
 - Box 白轴: Clicky
 - Box 茶轴: Tactile
@@ -78,6 +85,7 @@
     > 很多pc上盖的轴都是这个声音，灰木v4就挺像的，手感也像
 
   - V4: **45**-55gf, 总行程 **2.0**-3.6mm
+    - 2022-11-15
     - 2.3元
     - 持续触底有点累
 
@@ -95,14 +103,34 @@ TTC：
 
 - 烈焰红轴
 
+[ROG](https://rog.asus.com/content/rog-keyboard-switch/):
+- NX
+  - Red (山楂红): 40-**45**-55gf, **1.8**-4.0mm
+    - 没有天空轴V4、灰木轴V4稳定，很晃，可能是因为十字座没有边框
+    - 声调比天空轴V4高，灰木轴V4低
+  - 2021-10 [ASUS Republic of Gamers Announces NX Mechanical Switch Series | News｜ASUS Global](https://www.asus.com/news/egeadsgdqmlsyyap/)
+- RX
+- HFX (Magnetic)
+
 高特:
 - 十字轴
 
 LEOBOG: 价格较低
 - 灰木轴
+  - v3: 30-**40**-53gf, **1.5**-3.6mm
+
+    [我宣布灰木轴是世界上最好的轴体 - V2EX](https://www.v2ex.com/t/933429)
+
   - v4: 30-**40**-50gf, **1.5**-3.6mm
+    - ~2023-07
     - 淘宝 0.6元，拼多多 0.5元，闲鱼 0.46元
+    - 比天空轴V4的音调略高，更像麻将音
+    - 没有天空轴V4稳定
+
+    [被抢爆！揭秘6毛8的灰木轴v4有啥好？\_什么值得买](https://post.smzdm.com/talk/p/avxmx4zn/)
+
   - > 兼顾游戏和码字的声优轴
+
 - 星矢轴
 
 MZ:
@@ -114,8 +142,6 @@ LODK:
   - 无导光柱
 
 [达尔优a98 快银轴对比天空蓝v3 - 哔哩哔哩](https://www.bilibili.com/video/BV1cb4y187x6/)
-
-购买时可能有部分针脚弯曲或有其它损坏，不当插入也可能导致损坏，最好留些余量。
 
 ### Optical switches
 [什么光轴？光轴键盘有哪些？_键盘_什么值得买](https://post.smzdm.com/p/a7dr22r9/)
