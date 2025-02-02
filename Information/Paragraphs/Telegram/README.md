@@ -2,6 +2,11 @@
 [Telegram Limits](https://limits.tginfo.me/)  
 
 ## Chat history
+- 对方删除消息后，断网
+  - 可以复制
+  - 可以截图
+  - 转发单条消息不需要联网，但再联网也会发送失败，也无法下载媒体，尽管本地还可以看到
+- 导出消息无论是单独导出还是整体导出都需要联网
 - 群组被封禁后，本地的聊天记录缓存并不会被删除，可以搜索到。（Windows）
   - 但是不能用 UIA 提取搜索结果，只能 OCR。
   - 虽然可以在设置中导出数据，但是不能导出公共群组的数据。
@@ -53,6 +58,8 @@ Web:
 - [TgDev](https://tgdev.io/tme/)
 - [cxumol/tg-search: Search in Telegram with CJT words (unofficial). Telegram 中文搜索 (非官方).](https://github.com/cxumol/tg-search) (discontinued)
 - ~~[Meow.TG](https://meow.tg/)~~
+
+[telegram 聊天记录入库 elk | GreenHatHG の Blog](https://greenhathg.github.io/2021/11/15/telegram%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E5%85%A5%E5%BA%93elk/)
 
 Topics:
 - [ACGN Seach: telegram 番剧搜索引擎，和 tg 糟糕的中文分词搜索说再见](https://search.acgn.es/)
