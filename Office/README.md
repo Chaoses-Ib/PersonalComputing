@@ -4,6 +4,10 @@
 ## Installation
 - Click-to-Run
 
+  [Office C2R Installers | Gravesoft](https://gravesoft.dev/office_c2r_links)
+
+  [Office C2R Custom Install | Gravesoft](https://gravesoft.dev/office_c2r_custom)
+
   [Office Deployment Tool](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
   - [自定义精简安装Microsoft Office 2021并激活 - 元子Channel](https://yzgsa.com/%E8%87%AA%E5%AE%9A%E4%B9%89%E7%B2%BE%E7%AE%80%E5%AE%89%E8%A3%85microsoft-office-2021%E5%B9%B6%E6%BF%80%E6%B4%BB)
 
@@ -29,5 +33,14 @@ Tools:
 Uninstllation:
 - [Uninstall Office from a PC - Microsoft Support](https://support.microsoft.com/en-us/office/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8)
 
-## License
+## Licensing
+- [Microsoft Activation Scripts (MAS): Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.](https://github.com/massgravel/Microsoft-Activation-Scripts)
+  - Ohook
+    - Office 365
+  - Mondo (TSforge / Online KMS)
+  - TSforge
+  - Online KMS
 - [Office 365 Activator](https://gist.github.com/thdtt/61236d7c4c6090e85ac34b33e7318a18)
+- Mondo
+  
+  [Pirated Microsoft Office 365 shows as "Office 2016 Mondo"---is this okay? Do I still get the latest updates? : r/Piracy](https://www.reddit.com/r/Piracy/comments/xyp9zt/pirated_microsoft_office_365_shows_as_office_2016/)
