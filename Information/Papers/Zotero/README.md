@@ -9,13 +9,28 @@
 
   The replaced script will be saved to `%USERPROFILE%\scoop\apps\zotero\current\install-zotero-url-protocol.ps1`. This is a bit confusing since there is no tip about it.
 
+> Your computer must be restarted to complete a previous upgrade of Zotero. Do you want to reboot now?
+- [Zotero update requires reboot (constantly) - Zotero Forums](https://forums.zotero.org/discussion/109234/zotero-update-requires-reboot-constantly)
+
+## Data
 Data (the same for installer and Scoop):
 - `%USERPROFILE%\Zotero`
 - `%APPDATA%\Zotero\Zotero\Profiles\123abcde.default`
 - [Tara: A Zotero add-on for backup and restore preferences, add-ons, translators, styles, and locate between two machines](https://github.com/l0o0/tara)
 
-> Your computer must be restarted to complete a previous upgrade of Zotero. Do you want to reboot now?
-- [Zotero update requires reboot (constantly) - Zotero Forums](https://forums.zotero.org/discussion/109234/zotero-update-requires-reboot-constantly)
+[Zotero Database Repair Tool](https://www.zotero.org/utils/dbfix/)
+
+### [Sync](https://www.zotero.org/support/sync)
+- Data syncing
+  - Full text indexes
+- File syncing
+  - [Zotero](https://www.zotero.org/storage)
+    - Free: 300 MB
+  - WebDAV (ZIP)
+  - [Linked files](https://www.zotero.org/support/attaching_files#stored_files_and_linked_files) + file sync tools
+  - Download files at sync time / as needed
+
+> Storing the Zotero data directory directly in a cloud storage folder is [extremely likely to corrupt your Zotero database](https://www.zotero.org/support/kb/data_directory_in_cloud_storage_folder) and should not be done.
 
 ## History
 ### v7
