@@ -1,6 +1,19 @@
 # [Telegram](https://telegram.org/)
 [Telegram Limits](https://limits.tginfo.me/)  
 
+## Session string
+- [aahnik/tg-login: A command-line tool to login into Telegram with user or bot accounts and generate session string.](https://github.com/aahnik/tg-login)
+  - `uvx tg-login`
+  - https://replit.com/@aahnik/tg-login?v=1
+
+    Click on the above link and enter api id, api hash, and phone no to generate session string.
+
+```python
+AuthKeyDuplicatedError: The authorization key (session file) was used under two different IP addresses simultaneously,
+and can no longer be used. Use the same session exclusively, or use different sessions (caused by
+InvokeWithLayerRequest(InitConnectionRequest(GetConfigRequest)))
+```
+
 ## Chat history
 - 对方删除消息后，断网
   - 可以复制
@@ -24,7 +37,10 @@ Viewer:
 - [teleparser: Telegram cache4.db parser](https://github.com/RealityNet/teleparser)
 
 ### Auto-forward
-- [tgcf: The ultimate tool to automate custom telegram message forwarding. Live-syncer, Auto-poster, backup-bot, cloner, chat-forwarder, duplicator, ... Call it whatever you like! tgcf can fulfill your custom needs.](https://github.com/aahnik/tgcf)
+- [tgcf: The ultimate tool to automate custom telegram message forwarding. Live-syncer, Auto-poster, backup-bot, cloner, chat-forwarder, duplicator, ... Call it whatever you like! tgcf can fulfill your custom needs.](https://github.com/aahnik/tgcf) (discontinued)
+  - `uvx tgcf live`
+  - `uvx --from tgcf --python 3.11 tgcf-web`
+    - ["tgcf-web" command gives this error on Mac - Issue #594](https://github.com/aahnik/tgcf/issues/594)
   - `past` mode will only forward past messages. There is no `past-and-live` mode.
   - `past` mode will automatically update `offset` after each run.
   - [How to run tgcf as a service in background ? - aahnik/tgcf - Discussion #219](https://github.com/aahnik/tgcf/discussions/219)
