@@ -4,7 +4,9 @@
 ## Tools
 Windows:
 - <kbd>PrtScn</kbd>
-- <kbd>Win + Shift + S</kbd>
+- Snipping Tool ([Wikipedia](https://en.wikipedia.org/wiki/Snipping_Tool))
+  - <kbd>Win + Shift + S</kbd>
+  - Automatically save original screenshots/recordings by default
 
 ## In-game screenshots
 Windows:
