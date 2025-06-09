@@ -1,4 +1,10 @@
 # QQ
+## Clients
+Android:
+- China
+- Google Play
+  - Last update: 2020-12-25 v8.2.11
+
 ## 聊天记录
 Win32:
 - [QQBackup/QQDecrypt: 解密并导出 PCQQ / QQ NT 等软件的聊天记录数据库的教程网站](https://github.com/QQBackup/QQDecrypt)
