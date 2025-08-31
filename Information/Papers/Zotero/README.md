@@ -41,10 +41,13 @@ Data (the same for installer and Scoop):
 New features:
 - Dark mode
 
-## PDF reader
+## Reader
 [The Zotero PDF Reader and Note Editor](https://www.zotero.org/support/pdf_reader)
 
 - Free
+- Formats: PDF, EPUB, webpage snapshots
+
+  [Available for beta testing: Updated reader with EPUB/snapshot support and new annotation types - Zotero Forums](https://forums.zotero.org/discussion/106716/available-for-beta-testing-updated-reader-with-epub-snapshot-support-and-new-annotation-types)
 - Dark mode (v7)
 - Autolinks for URLs and DOIs
 
@@ -58,6 +61,13 @@ New features:
   Annotations created in the built-in PDF reader are stored in the Zotero database, so they won't be visible in external PDF readers unless you export a PDF with embedded annotations. See [Annotations in Database](https://www.zotero.org/support/kb/annotations_in_database) for more info.
 
   - Image annotations
+  - Timestamps: Only shown in tooltips
+
+    [Annotation timestamps and impact on pdf date modified field - Zotero Forums](https://forums.zotero.org/discussion/105791/annotation-timestamps-and-impact-on-pdf-date-modified-field)
+
+    [Zotero PDF annotation: Sort by date \[Feature request\] - Zotero Forums](https://forums.zotero.org/discussion/90762/zotero-pdf-annotation-sort-by-date-feature-request)
+
+    [Feature Request: Expose Annotation Timestamps (Creation/Modification Date) via API for Plugin Use - Zotero Forums](https://forums.zotero.org/discussion/123405/feature-request-expose-annotation-timestamps-creation-modification-date-via-api-for-plugin-use)
   - Syncing
 - "Open Documents" support when adding citations
 
