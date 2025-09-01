@@ -41,6 +41,67 @@ Data (the same for installer and Scoop):
 New features:
 - Dark mode
 
+## Items
+### Item types
+[Zotero Item Types and Fields](https://www.zotero.org/support/kb/item_types_and_fields)
+- Document
+
+  > A generic document item. This item type has a poor selection of fields and poor support in citation styles, so it should generally be avoided.
+- Book
+  - Book Section
+
+    Some Conference Paper may be misclassified as Book Section.
+- Paper
+  - Conference Paper
+  - Presentation
+  - Preprint
+  - Journal Article
+  - Report
+  - Thesis
+  - Manuscript
+- Standard
+- Encyclopedia Article
+- Magazine Article, Newspaper Article
+- Webpage
+  - Blog Post
+  - Forum Post
+- Email, Letter
+- Instant Message
+- Note
+
+  > A standalone note. Notes can be used for organizing and annotating in Zotero. If you cite a standalone note, Zotero will use the first 120 characters as the item title (and will treat the note as an author-less and date-less item). Citing notes is not a reliable way to add standalone commentary to a bibliography or reference list.
+
+Non-textual:
+- Artwork
+- Map
+- Audio Recording, Podcast, Radio Broadcast
+- Film, TV Broadcast, Video Recording
+
+Non-natural:
+- Software
+- Dataset
+- Attachment
+
+  > A standalone attachment file (e.g., a PDF, JPEG, DOCX, PPTX, XLSX, or ODT file). Standalone attachment files have limited functionality in Zotero (e.g., they cannot be properly searched or cited). Always attach files to proper Zotero items.
+
+### Pages
+- `Pages` and `# of pages` are different.
+- And PDF's `Pages` is # of pages, but can't be searched or shown as a column.
+  - Search `%USERPROFILE%\Zotero\storage` instead.
+  - Or just filter by item type.
+
+[How to sort library by "# of pages" attribute? - Zotero Forums](https://forums.zotero.org/discussion/60897/how-to-sort-library-by-of-pages-attribute)
+
+[Displaying # of pages in Item Type Menu - Zotero Forums](https://forums.zotero.org/discussion/73180/displaying-of-pages-in-item-type-menu)
+
+[How to get pdf page count metadata as a variable or included in reports - Zotero Forums](https://forums.zotero.org/discussion/79357/how-to-get-pdf-page-count-metadata-as-a-variable-or-included-in-reports)
+
+[\# of pages - Zotero Forums](https://forums.zotero.org/discussion/92278/of-pages)
+
+[Sort by number of pages in the attached PDF? - Zotero Forums](https://forums.zotero.org/discussion/105031/sort-by-number-of-pages-in-the-attached-pdf)
+
+["Number of pages" column - Zotero Forums](https://forums.zotero.org/discussion/122078/number-of-pages-column)
+
 ## Reader
 [The Zotero PDF Reader and Note Editor](https://www.zotero.org/support/pdf_reader)
 
